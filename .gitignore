@@ -1,0 +1,12 @@
+# Ignorar archivos de Visual Studio
+.vs/
+.vscode/
+.idea/
+
+# Archivos de compilación de .NET
+bin/
+obj/
+
+# Archivos específicos del sistema
+.DS_Store
+Thumbs.db
